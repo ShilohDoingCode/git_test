@@ -1,0 +1,23 @@
+[33mcommit deceb2ad58f4dfb38305cc8775ebd38e545c9e71[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: ShilohDoingCode <ShilohCantDoAnything@protonmail.com>
+Date:   Sun Dec 22 17:25:06 2024 +0000
+
+    Added line to README.md
+
+[33mcommit 0b2607a2f3c02718fa0be7df223cde744a9f2877[m
+Author: ShilohDoingCode <ShilohCantDoAnything@protonmail.com>
+Date:   Sun Dec 22 16:53:26 2024 +0000
+
+    Edit README.md and hello_world.txt
+
+[33mcommit cd23922f31cad4e5659c1eca06497f885ff6498a[m
+Author: ShilohDoingCode <ShilohCantDoAnything@protonmail.com>
+Date:   Sun Dec 22 16:32:07 2024 +0000
+
+    Add hello_world.txt
+
+[33mcommit 4f6b9a6fbeab93b7d9dca400fcdc8ad3ec475fea[m
+Author: ShilohDoingCode <ShilohCantDoAnything@protonmail.com>
+Date:   Sun Dec 22 16:21:08 2024 +0000
+
+    Initial commit
